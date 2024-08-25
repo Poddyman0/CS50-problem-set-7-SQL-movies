@@ -20,3 +20,12 @@ In this project, I worked with a SQLite database named movies.db, which containe
   <li><strong>Collaborations:</strong> I found movies featuring collaborations between specific actors, like Bradley Cooper and Jennifer Lawrence.</li>
   <li><strong>Exclusive Lists:</strong> I created exclusive lists of people who starred in movies with Kevin Bacon, ensuring Kevin Bacon himself was excluded from the results.</li>
 </ul>
+Now type
+
+cd movies
+followed by Enter to move yourself into (i.e., open) that directory. Your prompt should now resemble the below.
+
+movies/ $
+Execute ls by itself, and you should see 13 .sql files, as well as movies.db.
+
+If you run into any trouble, follow these same steps again and see if you can determine where you went wrong!
